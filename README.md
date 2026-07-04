@@ -90,7 +90,7 @@
 
 📧 **Email:** imtiyajhasan1998@gmail.com
 
-📱 **WhatsApp:** +91 9122348878
+📱 **WhatsApp:** +919122348878
 
 📍 **Location:** Noida, India
 
