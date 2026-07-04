@@ -87,9 +87,6 @@
 ---
 
 # 🌐 Connect With Me
-## 🌐 Connect With Me
-
-## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imtiyajhasan1998@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919122348878)  
