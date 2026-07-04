@@ -12,7 +12,9 @@
 
 # 💫 About Me
 
-💻 Full Stack Web Developer from **Noida, India**
+💻 **Full Stack Web Developer**
+🏠 **Hometown:** Samastipur, Bihar 🇮🇳
+📍 **Currently Living:** Noid-63, Uttar Pradesh.
 
 🚀 I build modern, secure and scalable web applications.
 
@@ -20,7 +22,7 @@
 
 ⚡ Passionate about **Laravel, React and PHP**
 
-🎯 Goal: Build software that solves real business problems.
+🎯 **Goal:** Build software that solves real business problems.
 
 ---
 
