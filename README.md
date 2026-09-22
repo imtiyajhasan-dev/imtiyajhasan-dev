@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Web Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+ Software+Developer;Full+Stack+ Software+Developer;Laravel+Developer;React+Developer;PHP+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Full+Stack+Website+Developer;Laravel+Developer;React+Developer;PHP+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
