@@ -1,135 +1,50 @@
-# 👋 Hey, I'm Imtiyaj Hasan
+# 👋 Hi, I'm Imtiyaj Hasan
 
-### 🚀 Software Engineer • Full Stack Web Developer
+### 🚀 **Software** **and** **Full Stack Web Developer**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Developer;Laravel+%7C+React+%7C+PHP+Developer;Building+Modern+SaaS+Applications;Building+Scalable+Business+Websites;Turning+Ideas+Into+Digital+Products;Always+Learning+%26+Building" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Full+Stack+Website+Developer;Laravel+Developer;React+Developer;PHP+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 
-<p align="center">
-  <a href="mailto:imtiyajhasan1998@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/imtiyajhasan-dev">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+# 💫 About Me
 
-I'm a **Software Engineer & Full Stack Web Developer** focused on building modern, scalable, and business-oriented web applications.
+💻 **Software** **and** **Full Stack Web Developer** <br>
+🏠 **Hometown:**  Samastipur, Bihar. 🇮🇳<br>
+📍 **Currently Living:**  Noida-63, Uttar Pradesh. 🇮🇳 <br>
 
-I work primarily with **Laravel, PHP, React, JavaScript, MySQL, and Bootstrap**, and I enjoy turning complex business requirements into clean and practical software solutions.
+🚀 I build modern, secure, scalable Saas Software And Web applications.
 
+🌱 Currently learning **AWS Cloud & DevOps**
 
-💻 Full Stack Web Development
-⚙️ Backend Architecture & REST APIs
-🚀 SaaS & Business Applications
-🎨 Modern Responsive Interfaces
-🗄️ Database Design & Management
-🔐 Authentication & Role-Based Access
-☁️ Exploring AWS & DevOps
+⚡ Passionate about **Laravel, React and PHP**
 
-### 📍 A little about me
-
-* 🏠 **Hometown:** Samastipur, Bihar 🇮🇳
-* 📍 **Currently:** Noida, Uttar Pradesh 🇮🇳
-* 💼 **Focus:** Full Stack Web & SaaS Development
-* 🚀 **Building:** Business Software & Web Applications
-* 🌱 **Currently Learning:** AWS Cloud & DevOps
-* 🎯 **Mission:** Build software that solves real-world business problems
+🎯 **Goal:** Build software that solves real business problems.
 
 ---
 
-# 🚀 What I Build
+# 🛠 Tech Stack
 
-<table>
-<tr>
-<td width="50%">
-
-### 💼 Business Applications
-
-Custom software designed around real business workflows.
-
-* CRM Systems
-* Management Systems
-* Admin Dashboards
-* Business Portals
-* Workflow Automation
-
-</td>
-
-<td width="50%">
-
-### ☁️ SaaS Applications
-
-Scalable software designed for multiple businesses and users.
-
-* Multi-Tenant SaaS
-* Subscription Systems
-* Role-Based Access
-* Billing & Invoicing
-* REST APIs
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Modern Websites
-
-Fast, responsive and conversion-focused websites.
-
-* Business Websites
-* School / College Websites
-* Landing Pages
-* Portfolio Websites
-* CMS Solutions
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Full Stack Solutions
-
-From database architecture to frontend experience.
-
-* Laravel Backend
-* React Frontend
-* MySQL Database
-* API Integration
-* Authentication Systems
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-### 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
-### 🗄️ Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Tools & Cloud
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws" />
@@ -137,160 +52,60 @@ From database architecture to frontend experience.
 
 ---
 
-# 🧩 Core Skills
+# 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=imtiyajhasan-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=imtiyajhasan-dev&theme=tokyonight&hide_border=true)
 
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyajhasan-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-# 🏗️ Featured Project
+# 🏆 GitHub Trophies
 
-## 🏫 School Management System
-
-A complete management platform designed to simplify and digitize school operations.
-
-### ✨ Key Features
-
-* 👨‍🎓 Student Management
-* 📝 Admission Management
-* 🏠 Hostel Management
-* 📊 Administrative Dashboard
-* 👨‍🏫 Staff Management
-* 🔐 Authentication & Access Control
-* 📱 Responsive User Interface
-* ⚡ Modern Laravel Architecture
-
-### 🧰 Built With
-
-`Laravel` `React` `PHP` `MySQL` `Bootstrap` `REST API`
+![](https://github-profile-trophy.vercel.app/?username=imtiyajhasan-dev&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
-# 🚀 Currently Building
+# 🚀 Featured Project
 
-### 💡 Multi-Tenant SaaS Applications
+### 🏫 School Management System
 
-I'm currently exploring and building production-oriented SaaS concepts with a focus on:
+✔ Laravel
 
-```text
-Multi-Tenancy
-      ↓
-Authentication
-      ↓
-Role-Based Access Control
-      ↓
-Business Workflows
-      ↓
-Subscriptions & Billing
-      ↓
-Scalable Architecture
-      ↓
-Cloud Deployment
-```
+✔ React
 
-My current learning path is also expanding toward **AWS, DevOps, deployment, scalability and cloud infrastructure**.
+✔ Admission Management
+
+✔ Hostel Management
+
+✔ Student Management
+
+✔ Responsive UI
 
 ---
 
-# 📊 GitHub Analytics
+# 🌐 Connect With Me
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=imtiyajhasan-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiyajhasan-dev&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyajhasan-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imtiyajhasan1998@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919122348878)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/software_by_imtiyaj)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/software.by.imtiyaj)  
+[![Location](https://img.shields.io/badge/Noida-India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Noida,India)
 
 ---
 
-# 🏆 GitHub Achievements
+# 👀 Profile Views
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=imtiyajhasan-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</p>
+![](https://komarev.com/ghpvc/?username=imtiyajhasan-dev&color=blue&style=for-the-badge)
 
 ---
 
-# 📈 Contribution Activity
+<div align="center">
 
-<p align="center">
+## ⭐ Thanks for visiting my profile ⭐
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imtiyajhasan-dev&theme=tokyo-night&hide_border=true" />
+### Don't forget to ⭐ my repositories if you like them.
 
-</p>
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in:
-
-**💼 Software Development • 🚀 SaaS Ideas • 🤝 Freelance Projects • 🌱 Learning & Collaboration**
-
-<p align="center">
-
-<a href="mailto:imtiyajhasan1998@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://wa.me/919122348878">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/software_by_imtiyaj">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://facebook.com/software.by.imtiyaj">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=imtiyajhasan-dev&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</p>
-
----
-
-<p align="center">
-
-### 💙 Thanks for visiting my profile!
-
-**Code • Create • Innovate • Scale**
-
-*Building software that turns ideas into useful digital products.*
-
-⭐ If you find my projects useful, consider giving them a star!
-
-</p>
+</div> isako kro
