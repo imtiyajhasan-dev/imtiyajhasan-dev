@@ -23,7 +23,7 @@ I'm a **Software Engineer & Full Stack Web Developer** focused on building moder
 
 I work primarily with **Laravel, PHP, React, JavaScript, MySQL, and Bootstrap**, and I enjoy turning complex business requirements into clean and practical software solutions.
 
-```text
+
 💻 Full Stack Web Development
 ⚙️ Backend Architecture & REST APIs
 🚀 SaaS & Business Applications
@@ -31,7 +31,6 @@ I work primarily with **Laravel, PHP, React, JavaScript, MySQL, and Bootstrap**,
 🗄️ Database Design & Management
 🔐 Authentication & Role-Based Access
 ☁️ Exploring AWS & DevOps
-```
 
 ### 📍 A little about me
 
