@@ -1,8 +1,10 @@
+<div align="center">
+
 # 👋 Hi, I'm Imtiyaj Hasan
 
-### 🚀 Full Stack Web Developer
+### 🚀 **Software and Full Stack Web Developer**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Full+Stack+Website+Developer;Laravel+Developer;React+Developer;PHP+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Full+Stack+Website+Developer;Laravel+Developer;React+Developer;PHP+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -10,11 +12,11 @@
 
 # 💫 About Me
 
-💻 **Software** **and** **Full Stack Web Developer** <br>
-🏠 **Hometown:**  Samastipur, Bihar. 🇮🇳<br>
-📍 **Currently Living:**  Noida-63, Uttar Pradesh. 🇮🇳 <br>
+💻 **Software and Full Stack Web Developer** <br>
+🏠 **Hometown:** Samastipur, Bihar. 🇮🇳<br>
+📍 **Currently Living:** Noida-63, Uttar Pradesh. 🇮🇳 <br>
 
-🚀 I build modern, secure, scalable Saas Software And Web applications.
+🚀 I build modern, secure, scalable SaaS Software And Web applications.
 
 🌱 Currently learning **AWS Cloud & DevOps**
 
@@ -27,44 +29,53 @@
 # 🛠 Tech Stack
 
 ### Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend" />
 </p>
 
 ### Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend" />
 </p>
 
 ### Database
-
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database" />
 </p>
 
 ### Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws" alt="Tools" />
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=imtiyajhasan-dev&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=imtiyajhasan-dev&theme=tokyonight&hide_border=true)
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=imtiyajhasan-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyajhasan-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyajhasan-dev&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiyajhasan-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=imtiyajhasan-dev&theme=tokyonight&no-frame=true&row=1)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imtiyajhasan-dev&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -72,33 +83,30 @@
 
 ### 🏫 School Management System
 
-✔ Laravel
-
-✔ React
-
-✔ Admission Management
-
-✔ Hostel Management
-
-✔ Student Management
-
-✔ Responsive UI
+✔ Laravel  
+✔ React  
+✔ Admission Management  
+✔ Hostel Management  
+✔ Student Management  
+✔ Responsive UI  
 
 ---
 
 # 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imtiyajhasan1998@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919122348878)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/software_by_imtiyaj)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/software.by.imtiyaj)  
-[![Location](https://img.shields.io/badge/Noida-India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Noida,India)
+<p>
+  <a href="mailto:imtiyajhasan1998@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp;
+  <a href="https://wa.me/919122348878"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> &nbsp;
+  <a href="https://instagram.com/software_by_imtiyaj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> &nbsp;
+  <a href="https://facebook.com/software.by.imtiyaj"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> &nbsp;
+  <a href="https://maps.google.com/?q=Noida+Sector+63,India"><img src="https://img.shields.io/badge/Noida--63-India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+</p>
 
 ---
 
 # 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=imtiyajhasan-dev&color=blue&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=imtiyajhasan-dev&color=blue&style=for-the-badge" alt="Profile Views" />
 
 ---
 
