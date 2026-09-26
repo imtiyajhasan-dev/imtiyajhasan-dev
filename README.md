@@ -10,8 +10,7 @@
 
 # 💫 About Me
 
-💻 **Software Developer** <br>
-💻 **Full Stack Web Developer** <br>
+💻 **Software** **and** **Full Stack Web Developer** <br>
 🏠 **Hometown:**  Samastipur, Bihar. 🇮🇳<br>
 📍 **Currently Living:**  Noida-63, Uttar Pradesh. 🇮🇳 <br>
 
