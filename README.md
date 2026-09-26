@@ -1,4 +1,4 @@
-<div align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ceb7a845-c5a6-445d-8c21-307e011805e9" /><div align="center">
 
 # 👋 Hi, I'm Imtiyaj Hasan
 
@@ -12,11 +12,12 @@
 
 # 💫 About Me
 
+💻 **Software Developer** <br>
 💻 **Full Stack Web Developer** <br>
 🏠 **Hometown:**  Samastipur, Bihar. 🇮🇳<br>
 📍 **Currently Living:**  Noida-63, Uttar Pradesh. 🇮🇳 <br>
 
-🚀 I build modern, secure and scalable web applications.
+🚀 I build modern, secure, scalable Saas Software And Web applications.
 
 🌱 Currently learning **AWS Cloud & DevOps**
 
